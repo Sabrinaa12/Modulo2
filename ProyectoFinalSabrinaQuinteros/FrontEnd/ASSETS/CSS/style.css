@@ -1,0 +1,32 @@
+
+body {
+    background-image: url(../IMG/Lugares-cerca-de-Buenos-Aires-para-pasar-el-día-1024x512.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+.navbar.navbar-expand-lg.bg-dark        	{
+    background: rgb(63,251,250);
+    background: radial-gradient(circle, rgba(63,251,250,1) 0%, rgba(0,21,255,1) 100%);
+}
+
+/*cuando el usario se acerca tiene un color FACEBOOK*/
+i.fa-brands.fa-facebook.fa-2xl:hover {
+color:blue;
+}
+
+.list-group{
+    --bs-list-group-bg:transparent;
+    --bs-list-group-border-color: transparent;
+}
+
+section.about{
+        margin-top:20rem;
+
+
+}
+/* cierro FACEBOOK*/
